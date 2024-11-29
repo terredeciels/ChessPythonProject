@@ -1,0 +1,9 @@
+Verification of Custom Perft and Python-Chess Perft Results:
+Depth 1: PASS (Nodes: 22)
+Depth 2: PASS (Nodes: 48)
+Depth 3: PASS (Nodes: 895)
+Depth 4: PASS (Nodes: 3506)
+Depth 5: PASS (Nodes: 67187)
+Depth 6: PASS (Nodes: 276526)
+
+Overall Result: PASS
